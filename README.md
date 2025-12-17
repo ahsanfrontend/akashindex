@@ -1,6 +1,5 @@
-  <img src="https://github.com/akashindex/akashindex/blob/main/banner.png" alt="akash profile banner" width="100%" height="auto" style="border-radius: 50%; border: 5px solid #4CAF50;" />
 
-# Hi there, I'm Akashali 👋
+# Hi there, I'm ahsan ali 👋
 
 ## 🚀 About Me
 
